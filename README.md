@@ -128,7 +128,9 @@ Các thuộc tính khác của tệp tin liên quan đến quyền truy cập r�
  - **header**
  - **dữ liệu**
 
-![Cấu trúc gói tin TCP](http://voer.edu.vn/file/6227.png)
+![Cấu trúc gói tin TCP](https://2466b9f4-a-62cb3a1a-s-sites.googlegroups.com/site/lexuandin/home/hhhhhhh.png?attachauth=ANoY7cqUORJMnJlfmq_UOidhurrNimAD3KNDazIfpijXXODeXsf2cAvAPgJ926IO_OiD8yAdRbFg5ApnJGHppQIIjCnTLLBD5-VzNcLNe7Q6KXpbdqWGwrhnScZbekZuj5x1cEdFSUlT_Eghpm3t425DNgimsuUxRHMyQMY_iVbYjfDIdDIuTQWZG4HDfu9sgxY1bq32FBeJ8dL1tI6IpgV8HShLrSSjxw%3D%3D&attredirects=0.png)
+
+
 - *lưu ý* : Phần header có 11 trường trong đó 10 trường bắt buộc. Trường thứ 11 là tùy chọn (trong bảng minh họa có màu nền đỏ) có tên là: **Options**
 
 ##**Header**
